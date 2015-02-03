@@ -1,4 +1,4 @@
-checkio-task-good-radix
+good-radix
 =====================
 
-Checkio Task "The Good Radix"
+Crystal Farm 2.4 "The Good Radix"
