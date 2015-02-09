@@ -1,6 +1,6 @@
 **How it is used:**
 
-Let's familiarize with numeral systems more careful and examine the radix.
+Let's familiarize ourselves with numeral systems more careful and examine the radix.
 Many devices are built to accept numbers in decimal representation and display results in decimal. 
 Often such devices convert from decimal to some internal radix on input, do all internal operations in that radix, 
 and then convert the results from the internal radix to decimal on output. 
