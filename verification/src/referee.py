@@ -12,7 +12,6 @@ class Referee(RefereeBase):
 
     DEFAULT_FUNCTION_NAME = "good_radix"
     ENV_COVERCODE = {
-        "python_2": covercodes.py_2_str,
         "python_3": None,
         "javascript": None
     }
