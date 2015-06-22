@@ -1,5 +1,3 @@
 **Precondition:**
 
-```python
-re.match("[A-Z1-9][A-Z0-9]{0, 9}", str_number)
-```
+Input number string matches at `"[A-Z1-9][A-Z0-9]{0, 9}"` regular expression.
