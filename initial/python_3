@@ -10,3 +10,5 @@ if __name__ == '__main__':
     assert good_radix("A23B") == 14, "It's not a hex"
     assert good_radix("IDDQD") == 0, "k is not exist"
 
+
+    print("Now that you're finished, hit the 'Check' button to review your code and earn sweet rewards!")
